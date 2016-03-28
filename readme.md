@@ -9,6 +9,6 @@ It supports CRUD operation on a list of Restaurants.
 - php artisan migrate
 - composer update
 
-## License
+## Used
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+The Laravel framework - a open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
