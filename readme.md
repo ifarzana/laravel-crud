@@ -5,7 +5,9 @@ It supports CRUD operation on a list of Restaurants.
 
 ## Do it
 
-composer update
+- modify .env according to your neeeds
+- php artisan migrate
+- composer update
 
 ## License
 
